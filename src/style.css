@@ -1,0 +1,32 @@
+*
+{
+    font-family:'Gobold';
+    margin: 0;
+    padding: 0;
+}
+
+
+html,
+body
+{
+    font-family: "Gobold";
+    height: 100vh;
+
+    
+}
+body{
+    overflow-x: hidden;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+    mix-blend-mode: exclusion;
+}
+
+.hidden{
+    display: none;
+}
