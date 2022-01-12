@@ -1,2 +1,2 @@
 # webpack-boilerplate
-Basic Webpack + Babel boilerplate for html projects
+Basic Webpack + Babel boilerplate for js projects
